@@ -1,7 +1,7 @@
 ## Hi there, Bonjour et bienvenue 👋
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuggaN85&layout=compact&theme=radical" alt="Langues les plus utilisées" /> 
+  <img src="https://i.imgur.com/cr1YcFe.png" alt="NuggaN85" /> 
 </p>
 
 **Bonjour à toutes et à tous,**
