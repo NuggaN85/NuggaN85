@@ -2,14 +2,11 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://api.iconify.design/catppuccin:php.svg" alt="php" width="60" height="60" /></td>
-    <td><img src="https://api.iconify.design/catppuccin:html.svg" alt="html" width="60" height="60" /></td>
-    <td><img src="https://api.iconify.design/catppuccin:css3.svg" alt="css3" width="60" height="60" /></td>
-    <td><img src="https://api.iconify.design/catppuccin:javascript.svg" alt="javascript" width="60" height="80" /></td>
-    <td><img src="https://api.iconify.design/catppuccin:json.svg" alt="json" width="60" height="60" /></td>
-    <td><img src="https://api.iconify.design/catppuccin:package-json.svg" alt="package-json" width="60" height="80" /></td>
-    <td><img src="https://api.iconify.design/catppuccin:apache.svg" alt="apache" width="60" height="60" /></td>
-    <td><img src="https://api.iconify.design/catppuccin:nginx.svg" alt="nginx" width="60" height="60" /></td>
+    <td><img src="https://api.iconify.design/logos:php-alt.svg" alt="php-alt" width="60" height="60" /></td>
+    <td><img src="https://api.iconify.design/logos:html-5.svg" alt="html-5" width="60" height="60" /></td>
+    <td><img src="https://api.iconify.design/logos:css-3.svg" alt="css-3" width="60" height="60" /></td>
+    <td><img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" width="60" height="60" /></td>
+    <td><img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width="60" height="60" /></td>
   </tr>
 </table>
 
