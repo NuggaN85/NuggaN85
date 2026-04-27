@@ -7,7 +7,6 @@
     <td><img src="https://api.iconify.design/logos:css-3.svg" alt="css-3" width="60" height="60" /></td>
     <td><img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" width="60" height="60" /></td>
     <td><img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width="60" height="60" /></td>
-    <td><img src="https://api.iconify.design/logos:docker-icon.svg" alt="docker-icon" width="60" height="60" /></td>
   </tr>
 </table>
 
