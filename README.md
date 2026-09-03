@@ -15,3 +15,5 @@
 Je m'appelle Ludovic, également connu sous le pseudonyme NuggaN dans l'univers du gaming. Je suis passionné par l'informatique, les nouvelles technologies et les jeux vidéo depuis mon plus jeune âge.
 
 **Professionnellement**, je travaille en tant que technicien en Assistance et Services Informatiques et Services Web Développement (AE) dans le Finistère (29). Mon parcours professionnel de 15 ans m'a permis d'acquérir une expertise solide pour répondre efficacement aux besoins et aux défis technologiques de mes clients. Je m'engage à offrir une écoute attentive pour optimiser votre confort numérique et rendre votre expérience informatique plus fluide et adaptée à vos besoins.
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&hide_title=true&langs_count=10)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&hide_title=true&langs_count=10)
