@@ -2,11 +2,11 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://icon-sets.iconify.design/bi/filetype-php/" alt="php" width="60" height="60" /></td>
-    <td><img src="https://icon-sets.iconify.design/bi/filetype-html/" alt="html" width="60" height="60" /></td>
-    <td><img src="https://icon-sets.iconify.design/bi/filetype-css/" alt="css" width="60" height="60" /></td>
-    <td><img src="https://icon-sets.iconify.design/bi/filetype-js/" alt="javascript" width="60" height="60" /></td>
-    <td><img src="https://icon-sets.iconify.design/logos/nodejs/" alt="nodejs" width="60" height="60" /></td>
+    <td><img src="#" alt="php" width="60" height="60" /></td>
+    <td><img src="#" alt="html" width="60" height="60" /></td>
+    <td><img src="#" alt="css" width="60" height="60" /></td>
+    <td><img src="#" alt="javascript" width="60" height="60" /></td>
+    <td><img src="#" alt="nodejs" width="60" height="60" /></td>
   </tr>
 </table>
 
