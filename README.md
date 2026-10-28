@@ -2,11 +2,11 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://api.iconify.design/logos:php-alt.svg" alt="php-alt" width="60" height="60" /></td>
-    <td><img src="https://api.iconify.design/logos:html-5.svg" alt="html-5" width="60" height="60" /></td>
-    <td><img src="https://api.iconify.design/logos:css-3.svg" alt="css-3" width="60" height="60" /></td>
-    <td><img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" width="60" height="60" /></td>
-    <td><img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width="60" height="60" /></td>
+    <td><img src="https://icon-sets.iconify.design/bi/filetype-php/" alt="php" width="60" height="60" /></td>
+    <td><img src="https://icon-sets.iconify.design/bi/filetype-html/" alt="html" width="60" height="60" /></td>
+    <td><img src="https://icon-sets.iconify.design/bi/filetype-css/" alt="css" width="60" height="60" /></td>
+    <td><img src="https://icon-sets.iconify.design/bi/filetype-js/" alt="javascript" width="60" height="60" /></td>
+    <td><img src="https://icon-sets.iconify.design/logos/nodejs/" alt="nodejs" width="60" height="60" /></td>
   </tr>
 </table>
 
